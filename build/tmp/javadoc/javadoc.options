@@ -1,0 +1,13 @@
+-classpath '/workspace/template/build/classes/java/main:/workspace/template/build/resources/main:/workspace/.gradle/caches/modules-2/files-2.1/io.github.jason-lang/jason-interpreter/3.2.1/36ce5ab2bfbcd80c6935e2d217cb88b66cbd61de/jason-interpreter-3.2.1.jar:/workspace/.gradle/caches/modules-2/files-2.1/net.sf.ingenias/jade/4.3/2cf02ba26058230c72da969100a3c2e2e7f06628/jade-4.3.jar:/workspace/.gradle/caches/modules-2/files-2.1/javax.json/javax.json-api/1.1.4/c8efa3cfaeee2b05c2dfd54cba21548a081b1746/javax.json-api-1.1.4.jar:/workspace/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.json/1.1.4/943f240a509d3c70b448a55c6735591ecbd37c88/javax.json-1.1.4.jar'
+-d '/workspace/template/build/docs/javadoc'
+-doctitle 'template API'
+-notimestamp 
+-quiet 
+-windowtitle 'template API'
+'/workspace/template/src/env/example/Action.java'
+'/workspace/template/src/env/example/CustomAgent.java'
+'/workspace/template/src/env/example/Env.java'
+'/workspace/template/src/env/example/PDDLGenerator.java'
+'/workspace/template/src/env/example/Planner.java'
+'/workspace/template/src/env/example/RunPlanner.java'
+'/workspace/template/src/env/example/TestJava.java'
